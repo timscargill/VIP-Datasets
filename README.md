@@ -1,4 +1,4 @@
-# VI-SLAM Point Clouds
+# VIP Datasets
 This repository accompanies the paper "_3D Object Detection with VI-SLAM Point Clouds: The Impact of
 Object and Environment Characteristics on Model Performance_", to appear in the Proceedings of IEEE ICRA 2024. It introduces **VIP500**, a dataset of 4772 VI-SLAM point clouds that covers 500 different object and environment configurations. We also provide **VIP500-D**, an accompanying dataset of 20 RGB-D point clouds of the object classes and shapes in VIP500, for comparison purposes.
 
