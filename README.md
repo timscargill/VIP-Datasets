@@ -7,14 +7,10 @@ The full VIP500 and VIP500-D datasets can be downloaded at the following Google 
 
 Each point cloud in the VIP500 dataset is in .txt format, with each line specifying the coordinates of a point and the object class that point is associated with (x y z class). The numerical value in the class column refers to the following object class assignments (derived from the order in the ModelNet10 dataset):
 
-0 - No object
-
-3 - Chair
-
-4 - Desk
-
-8 - Sofa
-
+0 - No object  
+3 - Chair  
+4 - Desk  
+8 - Sofa  
 9 - Table
 
 Each point cloud in the VIP-500D dataset is in .pcd format.
